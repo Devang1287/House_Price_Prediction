@@ -14,3 +14,6 @@ A Machine Learning project to predict house prices based on various features and
 ## Team
 - Devang (Roll 524)
 - Partner (Roll 553)
+
+## License
+This project is licensed under the MIT License.
